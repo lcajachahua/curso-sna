@@ -8,7 +8,7 @@ Luego, abra un shell y utilice el siguiente código para clonar este repo:
 git clone https://github.com/lcajachahua/curso-sna.git
 ```
 
-Y ya puede acceder a los Notebooks y a los datos de ejemplo.
+Y listo! Ya puede acceder a los Notebooks y a los datos de ejemplo.
 
 
 
