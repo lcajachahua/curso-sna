@@ -1,4 +1,4 @@
-# Materiales del Curso SNA
+# Ejercicios del Curso SNA
 
 Podrá desarrollar los ejercicios utilizando la versión gratuita en cloud de Jupyter. Ingrese a: https://jupyter.org/try y elija la opción "Try JupyterLab"
 
