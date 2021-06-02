@@ -2,7 +2,7 @@
 
 Podrá desarrollar los ejercicios utilizando la versión gratuita en cloud de Jupyter. Ingrese a: https://jupyter.org/try y elija la opción "Try JupyterLab"
 
-Luego, abra un shell y utilice el siguiente código para clonar este repo:
+Luego, abra la terminal y utilice el siguiente código para clonar este repo:
 
 ```
 git clone https://github.com/lcajachahua/curso-sna.git
