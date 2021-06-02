@@ -1,0 +1,348 @@
+From,To
+10gen,Hortonworks
+10gen,DataStax
+Acer,Cloudera
+Actuate,Cloudera
+Actuate,Hortonworks
+Actuate,Hive
+Alpine Data,Greenplum
+AMD,Cloudera
+AMD,Greenplum
+Appistry,Amazon
+Appistry,IBM
+Appistry,Microsoft
+Appistry,Vertica
+Aster Data,Amazon
+Aster Data,Cloudera
+Aster Data,Dell
+Aster Data,Teradata
+Aster Data,Informatica
+Aster Data,Dell
+Attivio,Cloudera
+Attivio,EMC
+Attivio,IBM
+Attivio,Oracle
+Attivio,Cisco
+Attivio,Netezza
+Attivio,Oracle
+Attivio,Tibco
+Attunity,Hortonworks
+Cetas,Vmware
+Cisco,Cloudera
+Cisco,EMC
+Cisco,MapR
+Cisco,Microsoft
+Cisco,Oracle
+Cloudera,Datameer
+Cloudera,Dell
+Cloudera,HP
+Cloudera,Oracle
+Cloudera,Teradata
+Cloudera,Vertica
+Cloudera,Vmware
+Cloudera,IBM
+Cloudera,Dell
+Composite Software,Cloudera
+Composite Software,SAP
+Composite Software,Informatica
+Composite Software,Netezza
+Concurrent,MapR
+Couchbase,Cloudera
+Couchbase,Microsoft
+Couchbase,HP
+Couchbase,Vmware
+DataSift,Datameer
+DataStax,Datameer
+Digital Reasoning,Cloudera
+Digital Reasoning,IBM
+Digital Reasoning,MapR
+Digital Reasoning,DataStax
+EMC,Datameer
+EnterpriseDB,Hortonworks
+EnterpriseDB,IBM
+EnterpriseDB,SAP
+EnterpriseDB,Fujitsu
+EnterpriseDB,Netezza
+Fujitsu,EMC
+Fujitsu,Cisco
+Greenplum,Datameer
+Greenplum,EMC
+Greenplum,IBM
+Greenplum,MapR
+Greenplum,Dell
+Greenplum,HP 
+Greenplum,Informatica
+Greenplum,Oracle
+Hadapt,Cloudera
+Hadapt,IBM
+Hbase,Apache
+Hcatalog,Apache
+Hortonworks,Datameer
+Hortonworks,Microsoft
+HP,Datameer
+HP,Appistry
+HP,Aster Data
+HPCC Systems,Amazon
+HPCC Systems,Trendwise Analytics
+Hstreaming,Microsoft
+Hstreaming,DataSift
+Hyve Solutions,Zettaset
+IBM,Datameer
+IBM,Amazon
+IBM,MapR
+IBM,Vertica
+Impetus,MapR
+InfoChimps,Datameer
+InfoChimps,Cloudera
+InfoChimps,DataStax
+Informatica,Cloudera
+Informatica,Hortonworks
+Informatica,MapR
+Informatica,Vertica
+Intel,Cloudera
+Intel,Cisco
+Intel,Dell
+Intel,Revolution Analytics
+Intel,Univa
+Jaspersoft,Cloudera
+Jaspersoft,Hortonworks
+Jaspersoft,IBM
+Jaspersoft,Hive
+Jaspersoft,Aster Data
+Jaspersoft,EnterpriseDB
+Jaspersoft,HP
+Jaspersoft,Revolution Analytics
+Jaspersoft,ParAccel
+Jaspersoft,MySQL
+Jaspersoft,Talend
+Jaspersoft,Oracle
+Jaspersoft,ParAccel
+Jaspersoft,Trendwise Analytics
+Jaspersoft,Vertica
+Jaspersoft,VoltDB
+Kapow,Informatica
+Karmashpere,Cloudera
+Karmashpere,Microsoft
+Karmashpere,Hive
+Karmashpere,DataStax
+Karmasphere,Amazon
+Karmasphere,Hortonworks
+Karmasphere,IBM
+Karmasphere,MapR
+Karmasphere,ThinkBigAnalytics
+Kitenga,Cloudera
+Kitenga,IBM
+Kitenga,Dell
+Kitenga,SGI
+Kitenga,Third Eye
+Kognito,Hortonworks
+Kognito,Metascale
+Lucene,Lucid Imagination
+Lucid Imagination,Hortonworks
+Lucid Imagination,MapR
+MapR,Datameer
+MapR,Amazon
+MarkLogic,Hortonworks
+MetaScale,Datameer
+Metric Insight,Cloudera
+Microsoft,Datameer
+Microsoft,Amazon
+Microsoft,EMC
+Microsoft,Hive
+MicroStrategy,Cloudera
+MicroStrategy,IBM
+MicroStrategy,Microsoft
+MicroStrategy,Hive
+MicroStrategy,Aster Data
+MicroStrategy,Composite Software
+MicroStrategy,Informatica
+MicroStrategy,Netezza
+MicroStrategy,Oracle
+Microstrategy,Vertica
+MySQL,Composite Software
+NetApp,Cloudera
+NetApp,Hortonworks
+NetApp,IBM
+NetApp,Microsoft
+NetApp,SAP
+NetApp,Oracle
+NetApp,Vertica
+NetApp,Univa
+Netezza,Cloudera
+Netezza,EMC
+Netezza,IBM
+Netezza,MapR
+Netezza,Informatica
+NexR,Cloudera
+NexR,Hive
+NTT Data,Cloudera
+NTT Data,Fujitsu
+Odiago,Cloudera
+Opera Solutions,SAS
+Oracle,Amazon
+Oracle,EMC
+Oracle,Composite Software
+Oracle,Vertica
+Oracle,Univa
+Outer Thought,Cloudera
+Outer Thought,Hive
+ParAccel,EMC
+ParAccel,AMD
+ParAccel,Dell
+ParAccel,Greenplum
+ParAccel,HP 
+ParAccel,Informatica
+ParAccel,Intel 
+ParAccel,MicroStrategy
+ParAccel,Oracle
+ParAccel,Cisco
+ParAccel,NetApp
+ParAccel,SAP
+ParAccel,SAS
+ParAccel,Vmware
+Pentaho,Amazon
+Pentaho,Cloudera
+Pentaho,Hortonworks
+Pentaho,MapR
+Pentaho,Hive
+Pentaho,Dell
+Pentaho,Aster Data
+Pentaho,DataStax
+Pentaho,Dell
+Pentaho,Drawn to Scale
+Pentaho,EnterpriseDB
+Pentaho,HPCC Systems
+Pentaho,ParAccel
+Pentaho,SGI
+Pentaho,10Gen 
+Pentaho,Vertica
+Persistent,IBM
+Pervasive,Cloudera
+Pervasive,Hortonworks
+Pervasive,IBM
+Pervasive,Hive
+Pervasive,Greenplum
+Pervasive,Intel 
+Pervasive,Karmasphere
+Pervasive,AMD
+Platform Computing,IBM
+Platform Computing,Dell
+Platform Computing,Fujitsu
+Platform Computing,HP 
+Platform Computing,SAS
+Puppet Labs,Cloudera
+Qliktech,Hive
+Quantum4D,Kitenga
+Quest Software,Cloudera
+Quest Software,MapR
+Quest Software,DataStax
+Radoop,Cloudera
+Radoop,Hortonworks
+RainStor,Hortonworks
+RainStor,Hstreaming
+Ramster,IBM
+RedHat,MapR
+Revolution Analytics,Cloudera
+Revolution Analytics,Microsoft
+Revolution Analytics,HP 
+Revolution Analytics,Netezza
+SAP,Amazon
+SAP,Cisco
+SAP,Vertica
+SAS,Aster Data
+Scale Unlimited,Datameer
+Scale Unlimited,Concurrent
+Scale Unlimited,Lucid Imagination
+SeaMicro,Hortonworks
+SeaMicro,Dell
+SGI,Datameer
+SGI,Cloudera
+SGI,VoltDB
+Simba,MapR
+SnapLogic,Hortonworks
+SnapLogic,EnterpriseDB
+SnapLogic,Oracle
+Snaplogic,Tidemark
+SolarFlare,Fujitsu
+SolarFlare,Informatica
+Splunk,Microsoft
+StackIQ,Amazon
+StackIQ,Cloudera
+StackIQ,Hortonworks
+StackIQ,IBM
+StackIQ,MapR
+StackIQ,Appistry
+StackIQ,DataStax
+StackIQ,Dell
+StackIQ,HP 
+Storm,Twitter
+Storm,Apache
+Supermicro,Datameer
+Supermicro,Cloudera
+Supermicro,HPCC Systems
+Sybase,EMC
+Sybase,Composite Software
+Sybase,MicroStrategy
+Sybase,Revolution Analytics
+Sybase,SAP
+Syncsort,Hortonworks
+Syncsort,NetApp
+Tableau,Amazon
+Tableau,Cloudera
+Tableau,IBM
+Tableau,MapR
+Tableau,Microsoft
+Tableau,Hive
+Tableau,Aster Data
+Tableau,EnterpriseDB
+Tableau,Netezza
+Tableau,Platform Computing
+Tableau,Tresata
+Tableau,Vertica
+Talend,Cloudera
+Talend,EMC
+Talend,Hortonworks
+Talend,MapR
+Talend,EnterpriseDB
+Talend,MicroStrategy
+Talend,Opera Solutions
+Talend,ParAccel
+Talend,Revolution Analytics
+Talend,Teradata
+Talend,Vertica
+Teradata,EMC
+Teradata,Hortonworks
+Teradata,MapR
+Teradata,Revolution Analytics
+ThinkBigAnalytics,Datameer
+ThinkBigAnalytics,Amazon
+ThinkBigAnalytics,Cloudera
+ThinkBigAnalytics,Hortonworks
+ThinkBigAnalytics,IBM
+ThinkBigAnalytics,MapR
+ThinkBigAnalytics,Greenplum
+Third Eye,Aster Data
+Third Eye,Kitenga
+Tibco,Hive
+Tibco,Attivio
+Tidemark,Cloudera
+Trendwise Analytics,Cloudera
+Trendwise Analytics,Hortonworks
+Trendwise Analytics,HPCC Systems
+Tresata,Hortonworks
+Univa,Amazon
+Vertica,Amazon
+Vertica,EMC
+Vertica,Hortonworks
+Vertica,IBM
+Vertica,Cisco
+Vertica,HP
+Vmware,Datameer
+Vmware,Hortonworks
+Vmware,MapR
+Vmware,Univa
+VoltDB,Cloudera
+VoltDB,Hortonworks
+Zettaset,Cloudera
+Zettaset,Hortonworks
+Zettaset,IBM
